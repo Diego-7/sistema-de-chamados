@@ -10,7 +10,7 @@ export default function DashBoard(){
             <Header/>
             
             <h1>PAGINA DASHBOARD</h1>
-            <button onClick={()=> signOut()}>Sair</button>
+           
         </div>
     )
 }
